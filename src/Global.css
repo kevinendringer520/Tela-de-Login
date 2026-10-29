@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    --font-family: "Nunito Sans", sans-serif;
+   
+    --color-orange-100: #ff8e3d;
+    --color-orange-200: #ff6a00;
+    
+    --color-black-100: #000000;
+
+    --color-white-200: #FFFFFFBF;
+    --color-white-100: #FFFFFF;
+
+}
